@@ -4,7 +4,5 @@ seaborn
 scikit-learn
 category_encoders
 xgboost
-lightgbm # install using conda forge
 catboost
 optuna
--e .
